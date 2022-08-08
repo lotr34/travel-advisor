@@ -1,2 +1,1 @@
-# travel-advisor
-ReactApp for travel-advisor website.
+Go to master branch
